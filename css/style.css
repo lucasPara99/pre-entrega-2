@@ -10,3 +10,8 @@
 footer{
     text-align: center;
 }
+
+.btn-primary{
+    background-color: rgb(255, 123, 0);
+    border: 0;
+}
