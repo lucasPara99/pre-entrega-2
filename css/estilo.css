@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-image: url(https://tse4.mm.bing.net/th?id=OIP.ZCwo-4sLEM4Rxqd7lGzAKgHaHa&pid=Api&P=0);
+  height: 90vh;
+}
+
+footer {
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: rgb(255, 123, 0);
+  border: 0;
+}/*# sourceMappingURL=estilo.css.map */
